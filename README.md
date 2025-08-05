@@ -1,4 +1,4 @@
-# 🧠 InsightMate - Research Assistant Chrome Extension using Spring Boot + Gemini API
+# 🧠 InsightMate - Research Assistant Chrome Extension using Spring Boot + Gemini API !!
 
 This project is an **AI-powered Research Assistant** Chrome Extension built using **Spring Boot** as the backend and **Google's Gemini API** for summarizing web content. It helps users summarize long web articles and take notes right from their browser.
 
